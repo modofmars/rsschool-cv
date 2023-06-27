@@ -1,1 +1,1 @@
-https://modofmars.github.io/rsschool-cv/
+https://modofmars.github.io/rsschool-cv/cv
