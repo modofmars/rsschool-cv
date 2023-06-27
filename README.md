@@ -1,4 +1,4 @@
 # rsschool-cv
 ###
-update for guidlines
-https://slyAquarius.github.io/rsschool-cv/
+
+https://modofmars.github.io/rsschool-cv/
